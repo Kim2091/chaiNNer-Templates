@@ -1,5 +1,5 @@
 # kim-chaiNNer-Templates
-These are my pre-made chains/templates for chaiNNer.
+These are my pre-made chains/templates for chaiNNer: https://github.com/JoeyBallentine/chaiNNer
 
 Simple Upscale:
 ![unknown](https://user-images.githubusercontent.com/62084776/180095322-59aa20f8-04d3-4bb5-829f-481e16d8c4d5.png)
