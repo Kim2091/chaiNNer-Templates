@@ -12,3 +12,6 @@ Simple Blended Output:
 
 Captioned Comparison:
 ![unknown](https://user-images.githubusercontent.com/62084776/180095406-5a27d6bd-8409-4fd6-9ef1-5dc7b12fba8f.png)
+
+Simple Image Iterator
+![unknown](https://user-images.githubusercontent.com/62084776/182009539-ba344c0f-5453-44f9-a988-0ec892319dbc.png)
