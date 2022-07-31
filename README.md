@@ -1,7 +1,7 @@
 # kim-chaiNNer-Templates
 These are my pre-made chains/templates for chaiNNer: https://github.com/JoeyBallentine/chaiNNer
 
-In the ONNX and NCNN folders are identical versions of these chains, but with the Pytorch nodes replaced with each respective type.
+Each type of chain is in each folder. They're all identical but with each processing type replaced. Below are some examples of the Pytorch chains:
 
 Simple Upscale:
 ![unknown](https://user-images.githubusercontent.com/62084776/180095322-59aa20f8-04d3-4bb5-829f-481e16d8c4d5.png)
