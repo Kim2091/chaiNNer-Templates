@@ -15,5 +15,8 @@ Simple Blended Output:
 Captioned Comparison:
 ![unknown](https://user-images.githubusercontent.com/62084776/180095406-5a27d6bd-8409-4fd6-9ef1-5dc7b12fba8f.png)
 
-Simple Image Iterator
+Simple Image Iterator:
 ![unknown](https://user-images.githubusercontent.com/62084776/182009539-ba344c0f-5453-44f9-a988-0ec892319dbc.png)
+
+TTA Lite: This is an idea I originally had to reduce blurring while also providing the benefits of TTA. Made for chaiNNer by Rift_73#1337
+<img width="1041" alt="Screenshot_2022-08-18_200552" src="https://user-images.githubusercontent.com/62084776/187041843-530620d2-c50e-4343-9faa-f4bf4ed10a09.png">
