@@ -1,5 +1,5 @@
 # kim-chaiNNer-Templates
-These are my pre-made chains/templates for chaiNNer: https://github.com/JoeyBallentine/chaiNNer
+These are my pre-made chains/templates for chaiNNer: https://github.com/chaiNNer-org/chaiNNer
 
 Each type of chain is in each folder. They're all identical but with each processing type replaced. Below are some examples of the Pytorch chains:
 
