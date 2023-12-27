@@ -1,25 +1,11 @@
 # chaiNNer-Templates
 These are my pre-made chains/templates for chaiNNer: https://github.com/chaiNNer-org/chaiNNer
 
-Each type of chain is in each folder. They're all identical but with each processing type replaced. Below are some examples of the Pytorch chains:
+You'll likely notice that there are 3 folders: NCNN, ONNX, and Pytorch. These all have different use-cases:
+- Pytorch - Best option for Nvidia GPUs, but can also work on CPUs
+- NCNN - Best option for AMD and Intel GPUs, but also supports Nvidia
+- ONNX - Works on Nvidia and CPU. This is usually slower, but is the only option for certain models
 
-Simple Upscale:
-![unknown](https://user-images.githubusercontent.com/62084776/180095322-59aa20f8-04d3-4bb5-829f-481e16d8c4d5.png)
+Each type of chain is in each folder. They're all identical but with each processing type replaced. Here's an example:
 
-Simple Comparison:
-![unknown](https://user-images.githubusercontent.com/62084776/180095285-ab363845-134b-4479-ac46-67cf94366653.png)
-
-Simple Blended Output:
-![unknown](https://user-images.githubusercontent.com/62084776/180095359-11f23952-0a58-4b75-a2c9-113d8ae4f027.png)
-
-Captioned Comparison:
-![unknown](https://user-images.githubusercontent.com/62084776/180095406-5a27d6bd-8409-4fd6-9ef1-5dc7b12fba8f.png)
-
-Simple Image Iterator:
-![unknown](https://user-images.githubusercontent.com/62084776/182009539-ba344c0f-5453-44f9-a988-0ec892319dbc.png)
-
-TTA Lite: This is an idea I originally had to reduce blurring while also providing the benefits of TTA. Made for chaiNNer by Rift_73#1337
-<img width="1041" alt="Screenshot_2022-08-18_200552" src="https://user-images.githubusercontent.com/62084776/187041843-530620d2-c50e-4343-9faa-f4bf4ed10a09.png">
-
-Simple Face Upscale:
-![image](https://user-images.githubusercontent.com/62084776/192997027-6fed7b00-f1e0-4dff-b85f-fda47d15e4ee.png)
+![image](https://github.com/Kim2091/chaiNNer-Templates/assets/62084776/68e5abf3-7da5-49a5-9b51-fa90db7f59c9)
