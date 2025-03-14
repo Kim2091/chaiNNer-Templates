@@ -1,4 +1,6 @@
 # chaiNNer-Templates
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J3BCC3L)
+
 These are my pre-made chains/templates for chaiNNer: https://github.com/chaiNNer-org/chaiNNer
 
 You'll likely notice that there are 3 folders: NCNN, ONNX, and Pytorch. These all have different use-cases:
